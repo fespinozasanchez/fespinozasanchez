@@ -11,7 +11,7 @@
   <img align="center" alt="fandres-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="fandres-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="fandres-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/fandres21/fandres21/blob/711ea2e16276cb919dc9ac13d8e93e8526049c34/img/fandres.png">
 </div>
   
   ##
