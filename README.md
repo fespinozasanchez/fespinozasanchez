@@ -55,5 +55,7 @@
   <a href="https://www.linkedin.com/in/fandreses/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/fandres21/fandres21/blob/output/github-contribution-grid-snake.svg)
+
+  ![snake gif](https://github.com/fespinozasanchez/fespinozasanchez/blob/output/github-contribution-grid-snake.gif)
  
 </div>
