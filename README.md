@@ -54,6 +54,6 @@
   <a href = "mailto:faespinozasanchez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fandreses/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![profile3d](./profile-3d-contrib/profile-gitblock.svg)
+  ![profile3d](./profile-3d-contrib/profile-night-rainbow.svg)
  
 </div>
